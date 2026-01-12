@@ -1,4 +1,4 @@
-# Remote Sensing Image Captioning using CNN–Transformer
+# Remote Sensing Image Captioning using CNN–Transformer (RSICD)
 
 This repository presents an end-to-end deep learning system for automatic caption generation of remote sensing images using a CNN–Transformer architecture. The project is implemented in the notebook `Image_Captioning_RSICD_ResNet50_Transformer.ipynb` and is trained and evaluated on the RSICD (Remote Sensing Image Caption Dataset).
 
